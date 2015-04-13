@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 asjflkajslfaj
 
 
 第一次修改了阿拉蕾撒娇发了撒娇发绿卡身份理解啊我认为而
 第二次修改啦～～～
+=======
+asjflkajslfaj
+>>>>>>> parent of c095713... modify1
